@@ -1,0 +1,7 @@
+{
+    "name": "rvaBucket",
+    "description": "Bucket extension",
+    "version": "2.2.0",
+    "type": "visualization",
+    "author": "Roland Vecera"
+}
